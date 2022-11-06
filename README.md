@@ -18,26 +18,27 @@ how ?
 features (till 06/11/22):
 
 automatic response for 
-
-   +'hi','hello' : 'oi hello there' 
-   +'da' : 'what do you want ?'  
-   + default : 'athe athe ....'
++'hi','hello' : 'oi hello there' 
++'da' : 'what do you want ?'  
++ default : 'athe athe ....'
 
 dependencies : 
 
-MouseInfo==0.1.3
-numpy==1.23.4
-opencv-python==4.6.0.66
-Pillow==9.3.0
-PyAutoGUI==0.9.53
-PyGetWindow==0.0.9
-PyMsgBox==1.0.9
-pynput==1.7.6
-pyperclip==1.8.2
-PyRect==0.2.0
-PyScreeze==0.1.28
-pytweening==1.0.4
-six==1.16.0
++ MouseInfo==0.1.3
+
++ numpy==1.23.4
+
++ opencv-python==4.6.0.66
++ Pillow==9.3.0
++ PyAutoGUI==0.9.53
++ PyGetWindow==0.0.9
++ PyMsgBox==1.0.9
++ pynput==1.7.6
++ pyperclip==1.8.2
++ PyRect==0.2.0
++ PyScreeze==0.1.28
++ pytweening==1.0.4
++ six==1.16.0
 
 
 
